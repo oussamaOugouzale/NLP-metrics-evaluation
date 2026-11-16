@@ -1,7 +1,6 @@
 # NLP Evaluation Metrics — 10 métriques
 
 **Master Data & IA — Evaluation Metrics for Natural Language Tasks**  
-Notebook Python pédagogique, en français, exécutable sur **Google Colab**.
 
 ## Objectif
 
